@@ -14,3 +14,25 @@ services:
       - 3000:3000
     env_file:
       - ./prometheus/grafana.env
+  node-exporter:
+    image: quay.io/prometheus/node-exporter
+    container_name: node-exporter
+    ports:
+      - 9100:9100
+    volumes:
+      - /proc:/host/proc
+      - /sys:/host/sys
+      - /:/rootfs
+  rancher-server:
+    image: rancher/server:latest
+    container_name: rancher-server
+    ports:
+      - 8000:8080
+    environment:
+      - CATTLE_DB_CATTLE_USERNAME=rancher
+      - CATTLE_DB_CATTLE_PASSWORD=rancher
+    volumes:
+      - ./rancher/rancher-server/mysql:/var/lib/mysql
+      - ./rancher/rancher-server/mysql-log:/var/log/mysql
+      - ./rancher/rancher-server/cattle:/var/log/cattle
+    env_file: .env
