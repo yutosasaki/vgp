@@ -1541,3 +1541,302 @@ InnoDB: Error: space header page consists of zero bytes in data file ./ibdata1
 
 190307  7:54:18 [Note] /usr/sbin/mysqld: Shutdown complete
 
+190313  2:20:56 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+190313  2:20:56 [Note] Plugin 'FEDERATED' is disabled.
+190313  2:20:56 InnoDB: The InnoDB memory heap is disabled
+190313  2:20:56 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+190313  2:20:56 InnoDB: Compressed tables use zlib 1.2.8
+190313  2:20:56 InnoDB: Using Linux native AIO
+190313  2:20:56 InnoDB: Initializing buffer pool, size = 128.0M
+190313  2:20:56 InnoDB: Completed initialization of buffer pool
+InnoDB: Error: space header page consists of zero bytes in data file ./ibdata1
+190313  2:20:56 InnoDB: Could not open or create data files.
+190313  2:20:56 InnoDB: If you tried to add new data files, and it failed here,
+190313  2:20:56 InnoDB: you should now edit innodb_data_file_path in my.cnf back
+190313  2:20:56 InnoDB: to what it was, and remove the new ibdata files InnoDB created
+190313  2:20:56 InnoDB: in this failed attempt. InnoDB only wrote those files full of
+190313  2:20:56 InnoDB: zeros, but did not yet use them in any way. But be careful: do not
+190313  2:20:56 InnoDB: remove old data files which contain your precious data!
+190313  2:20:56 [ERROR] Plugin 'InnoDB' init function returned error.
+190313  2:20:56 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+190313  2:20:56 [ERROR] Unknown/unsupported storage engine: InnoDB
+190313  2:20:56 [ERROR] Aborting
+
+190313  2:20:56 [Note] /usr/sbin/mysqld: Shutdown complete
+
+190314  4:12:39 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+190314  4:12:39 [Note] Plugin 'FEDERATED' is disabled.
+190314  4:12:39 InnoDB: The InnoDB memory heap is disabled
+190314  4:12:39 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+190314  4:12:39 InnoDB: Compressed tables use zlib 1.2.8
+190314  4:12:39 InnoDB: Using Linux native AIO
+190314  4:12:39 InnoDB: Initializing buffer pool, size = 128.0M
+190314  4:12:39 InnoDB: Completed initialization of buffer pool
+InnoDB: Error: space header page consists of zero bytes in data file ./ibdata1
+190314  4:12:39 InnoDB: Could not open or create data files.
+190314  4:12:39 InnoDB: If you tried to add new data files, and it failed here,
+190314  4:12:39 InnoDB: you should now edit innodb_data_file_path in my.cnf back
+190314  4:12:39 InnoDB: to what it was, and remove the new ibdata files InnoDB created
+190314  4:12:39 InnoDB: in this failed attempt. InnoDB only wrote those files full of
+190314  4:12:39 InnoDB: zeros, but did not yet use them in any way. But be careful: do not
+190314  4:12:39 InnoDB: remove old data files which contain your precious data!
+190314  4:12:39 [ERROR] Plugin 'InnoDB' init function returned error.
+190314  4:12:39 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+190314  4:12:39 [ERROR] Unknown/unsupported storage engine: InnoDB
+190314  4:12:39 [ERROR] Aborting
+
+190314  4:12:39 [Note] /usr/sbin/mysqld: Shutdown complete
+
+190314  5:17:06 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+190314  5:17:06 [Note] Plugin 'FEDERATED' is disabled.
+190314  5:17:06 InnoDB: The InnoDB memory heap is disabled
+190314  5:17:06 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+190314  5:17:06 InnoDB: Compressed tables use zlib 1.2.8
+190314  5:17:06 InnoDB: Using Linux native AIO
+190314  5:17:06 InnoDB: Initializing buffer pool, size = 128.0M
+190314  5:17:06 InnoDB: Completed initialization of buffer pool
+InnoDB: Error: space header page consists of zero bytes in data file ./ibdata1
+190314  5:17:06 InnoDB: Could not open or create data files.
+190314  5:17:06 InnoDB: If you tried to add new data files, and it failed here,
+190314  5:17:06 InnoDB: you should now edit innodb_data_file_path in my.cnf back
+190314  5:17:06 InnoDB: to what it was, and remove the new ibdata files InnoDB created
+190314  5:17:06 InnoDB: in this failed attempt. InnoDB only wrote those files full of
+190314  5:17:06 InnoDB: zeros, but did not yet use them in any way. But be careful: do not
+190314  5:17:06 InnoDB: remove old data files which contain your precious data!
+190314  5:17:06 [ERROR] Plugin 'InnoDB' init function returned error.
+190314  5:17:06 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+190314  5:17:06 [ERROR] Unknown/unsupported storage engine: InnoDB
+190314  5:17:06 [ERROR] Aborting
+
+190314  5:17:06 [Note] /usr/sbin/mysqld: Shutdown complete
+
+190314  5:17:49 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+190314  5:17:49 [Note] Plugin 'FEDERATED' is disabled.
+190314  5:17:49 InnoDB: The InnoDB memory heap is disabled
+190314  5:17:49 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+190314  5:17:49 InnoDB: Compressed tables use zlib 1.2.8
+190314  5:17:49 InnoDB: Using Linux native AIO
+190314  5:17:49 InnoDB: Initializing buffer pool, size = 128.0M
+190314  5:17:49 InnoDB: Completed initialization of buffer pool
+InnoDB: Error: space header page consists of zero bytes in data file ./ibdata1
+190314  5:17:49 InnoDB: Could not open or create data files.
+190314  5:17:49 InnoDB: If you tried to add new data files, and it failed here,
+190314  5:17:49 InnoDB: you should now edit innodb_data_file_path in my.cnf back
+190314  5:17:49 InnoDB: to what it was, and remove the new ibdata files InnoDB created
+190314  5:17:49 InnoDB: in this failed attempt. InnoDB only wrote those files full of
+190314  5:17:49 InnoDB: zeros, but did not yet use them in any way. But be careful: do not
+190314  5:17:49 InnoDB: remove old data files which contain your precious data!
+190314  5:17:49 [ERROR] Plugin 'InnoDB' init function returned error.
+190314  5:17:49 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+190314  5:17:49 [ERROR] Unknown/unsupported storage engine: InnoDB
+190314  5:17:49 [ERROR] Aborting
+
+190314  5:17:49 [Note] /usr/sbin/mysqld: Shutdown complete
+
+190314  6:28:08 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+190314  6:28:08 [Note] Plugin 'FEDERATED' is disabled.
+190314  6:28:08 InnoDB: The InnoDB memory heap is disabled
+190314  6:28:08 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+190314  6:28:08 InnoDB: Compressed tables use zlib 1.2.8
+190314  6:28:08 InnoDB: Using Linux native AIO
+190314  6:28:08 InnoDB: Initializing buffer pool, size = 128.0M
+190314  6:28:08 InnoDB: Completed initialization of buffer pool
+InnoDB: Error: space header page consists of zero bytes in data file ./ibdata1
+190314  6:28:08 InnoDB: Could not open or create data files.
+190314  6:28:08 InnoDB: If you tried to add new data files, and it failed here,
+190314  6:28:08 InnoDB: you should now edit innodb_data_file_path in my.cnf back
+190314  6:28:08 InnoDB: to what it was, and remove the new ibdata files InnoDB created
+190314  6:28:08 InnoDB: in this failed attempt. InnoDB only wrote those files full of
+190314  6:28:08 InnoDB: zeros, but did not yet use them in any way. But be careful: do not
+190314  6:28:08 InnoDB: remove old data files which contain your precious data!
+190314  6:28:08 [ERROR] Plugin 'InnoDB' init function returned error.
+190314  6:28:08 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+190314  6:28:08 [ERROR] Unknown/unsupported storage engine: InnoDB
+190314  6:28:08 [ERROR] Aborting
+
+190314  6:28:08 [Note] /usr/sbin/mysqld: Shutdown complete
+
+190314  7:15:39 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+190314  7:15:39 [Note] Plugin 'FEDERATED' is disabled.
+190314  7:15:39 InnoDB: The InnoDB memory heap is disabled
+190314  7:15:39 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+190314  7:15:39 InnoDB: Compressed tables use zlib 1.2.8
+190314  7:15:39 InnoDB: Using Linux native AIO
+190314  7:15:39 InnoDB: Initializing buffer pool, size = 128.0M
+190314  7:15:39 InnoDB: Completed initialization of buffer pool
+InnoDB: Error: space header page consists of zero bytes in data file ./ibdata1
+190314  7:15:39 InnoDB: Could not open or create data files.
+190314  7:15:39 InnoDB: If you tried to add new data files, and it failed here,
+190314  7:15:39 InnoDB: you should now edit innodb_data_file_path in my.cnf back
+190314  7:15:39 InnoDB: to what it was, and remove the new ibdata files InnoDB created
+190314  7:15:39 InnoDB: in this failed attempt. InnoDB only wrote those files full of
+190314  7:15:39 InnoDB: zeros, but did not yet use them in any way. But be careful: do not
+190314  7:15:39 InnoDB: remove old data files which contain your precious data!
+190314  7:15:39 [ERROR] Plugin 'InnoDB' init function returned error.
+190314  7:15:39 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+190314  7:15:39 [ERROR] Unknown/unsupported storage engine: InnoDB
+190314  7:15:39 [ERROR] Aborting
+
+190314  7:15:39 [Note] /usr/sbin/mysqld: Shutdown complete
+
+190315  7:04:46 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+190315  7:04:46 [Note] Plugin 'FEDERATED' is disabled.
+190315  7:04:46 InnoDB: The InnoDB memory heap is disabled
+190315  7:04:46 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+190315  7:04:46 InnoDB: Compressed tables use zlib 1.2.8
+190315  7:04:46 InnoDB: Using Linux native AIO
+190315  7:04:46 InnoDB: Initializing buffer pool, size = 128.0M
+190315  7:04:46 InnoDB: Completed initialization of buffer pool
+InnoDB: Error: space header page consists of zero bytes in data file ./ibdata1
+190315  7:04:46 InnoDB: Could not open or create data files.
+190315  7:04:46 InnoDB: If you tried to add new data files, and it failed here,
+190315  7:04:46 InnoDB: you should now edit innodb_data_file_path in my.cnf back
+190315  7:04:46 InnoDB: to what it was, and remove the new ibdata files InnoDB created
+190315  7:04:46 InnoDB: in this failed attempt. InnoDB only wrote those files full of
+190315  7:04:46 InnoDB: zeros, but did not yet use them in any way. But be careful: do not
+190315  7:04:46 InnoDB: remove old data files which contain your precious data!
+190315  7:04:46 [ERROR] Plugin 'InnoDB' init function returned error.
+190315  7:04:46 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+190315  7:04:46 [ERROR] Unknown/unsupported storage engine: InnoDB
+190315  7:04:46 [ERROR] Aborting
+
+190315  7:04:46 [Note] /usr/sbin/mysqld: Shutdown complete
+
+190315  7:12:55 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+190315  7:12:55 [Note] Plugin 'FEDERATED' is disabled.
+190315  7:12:55 InnoDB: The InnoDB memory heap is disabled
+190315  7:12:55 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+190315  7:12:55 InnoDB: Compressed tables use zlib 1.2.8
+190315  7:12:55 InnoDB: Using Linux native AIO
+190315  7:12:55 InnoDB: Initializing buffer pool, size = 128.0M
+190315  7:12:55 InnoDB: Completed initialization of buffer pool
+InnoDB: Error: space header page consists of zero bytes in data file ./ibdata1
+190315  7:12:55 InnoDB: Could not open or create data files.
+190315  7:12:55 InnoDB: If you tried to add new data files, and it failed here,
+190315  7:12:55 InnoDB: you should now edit innodb_data_file_path in my.cnf back
+190315  7:12:55 InnoDB: to what it was, and remove the new ibdata files InnoDB created
+190315  7:12:55 InnoDB: in this failed attempt. InnoDB only wrote those files full of
+190315  7:12:55 InnoDB: zeros, but did not yet use them in any way. But be careful: do not
+190315  7:12:55 InnoDB: remove old data files which contain your precious data!
+190315  7:12:55 [ERROR] Plugin 'InnoDB' init function returned error.
+190315  7:12:55 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+190315  7:12:55 [ERROR] Unknown/unsupported storage engine: InnoDB
+190315  7:12:55 [ERROR] Aborting
+
+190315  7:12:55 [Note] /usr/sbin/mysqld: Shutdown complete
+
+190315  7:14:21 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+190315  7:14:21 [Note] Plugin 'FEDERATED' is disabled.
+190315  7:14:21 InnoDB: The InnoDB memory heap is disabled
+190315  7:14:21 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+190315  7:14:21 InnoDB: Compressed tables use zlib 1.2.8
+190315  7:14:21 InnoDB: Using Linux native AIO
+190315  7:14:21 InnoDB: Initializing buffer pool, size = 128.0M
+190315  7:14:21 InnoDB: Completed initialization of buffer pool
+InnoDB: Error: space header page consists of zero bytes in data file ./ibdata1
+190315  7:14:21 InnoDB: Could not open or create data files.
+190315  7:14:21 InnoDB: If you tried to add new data files, and it failed here,
+190315  7:14:21 InnoDB: you should now edit innodb_data_file_path in my.cnf back
+190315  7:14:21 InnoDB: to what it was, and remove the new ibdata files InnoDB created
+190315  7:14:21 InnoDB: in this failed attempt. InnoDB only wrote those files full of
+190315  7:14:21 InnoDB: zeros, but did not yet use them in any way. But be careful: do not
+190315  7:14:21 InnoDB: remove old data files which contain your precious data!
+190315  7:14:21 [ERROR] Plugin 'InnoDB' init function returned error.
+190315  7:14:21 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+190315  7:14:21 [ERROR] Unknown/unsupported storage engine: InnoDB
+190315  7:14:21 [ERROR] Aborting
+
+190315  7:14:21 [Note] /usr/sbin/mysqld: Shutdown complete
+
+190315  7:16:50 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+190315  7:16:50 [Note] Plugin 'FEDERATED' is disabled.
+190315  7:16:50 InnoDB: The InnoDB memory heap is disabled
+190315  7:16:50 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+190315  7:16:50 InnoDB: Compressed tables use zlib 1.2.8
+190315  7:16:50 InnoDB: Using Linux native AIO
+190315  7:16:50 InnoDB: Initializing buffer pool, size = 128.0M
+190315  7:16:50 InnoDB: Completed initialization of buffer pool
+InnoDB: Error: space header page consists of zero bytes in data file ./ibdata1
+190315  7:16:50 InnoDB: Could not open or create data files.
+190315  7:16:50 InnoDB: If you tried to add new data files, and it failed here,
+190315  7:16:50 InnoDB: you should now edit innodb_data_file_path in my.cnf back
+190315  7:16:50 InnoDB: to what it was, and remove the new ibdata files InnoDB created
+190315  7:16:50 InnoDB: in this failed attempt. InnoDB only wrote those files full of
+190315  7:16:50 InnoDB: zeros, but did not yet use them in any way. But be careful: do not
+190315  7:16:50 InnoDB: remove old data files which contain your precious data!
+190315  7:16:50 [ERROR] Plugin 'InnoDB' init function returned error.
+190315  7:16:50 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+190315  7:16:50 [ERROR] Unknown/unsupported storage engine: InnoDB
+190315  7:16:50 [ERROR] Aborting
+
+190315  7:16:50 [Note] /usr/sbin/mysqld: Shutdown complete
+
+190315  7:28:22 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+190315  7:28:22 [Note] Plugin 'FEDERATED' is disabled.
+190315  7:28:22 InnoDB: The InnoDB memory heap is disabled
+190315  7:28:22 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+190315  7:28:22 InnoDB: Compressed tables use zlib 1.2.8
+190315  7:28:22 InnoDB: Using Linux native AIO
+190315  7:28:22 InnoDB: Initializing buffer pool, size = 128.0M
+190315  7:28:22 InnoDB: Completed initialization of buffer pool
+InnoDB: Error: space header page consists of zero bytes in data file ./ibdata1
+190315  7:28:22 InnoDB: Could not open or create data files.
+190315  7:28:22 InnoDB: If you tried to add new data files, and it failed here,
+190315  7:28:22 InnoDB: you should now edit innodb_data_file_path in my.cnf back
+190315  7:28:22 InnoDB: to what it was, and remove the new ibdata files InnoDB created
+190315  7:28:22 InnoDB: in this failed attempt. InnoDB only wrote those files full of
+190315  7:28:22 InnoDB: zeros, but did not yet use them in any way. But be careful: do not
+190315  7:28:22 InnoDB: remove old data files which contain your precious data!
+190315  7:28:22 [ERROR] Plugin 'InnoDB' init function returned error.
+190315  7:28:22 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+190315  7:28:22 [ERROR] Unknown/unsupported storage engine: InnoDB
+190315  7:28:22 [ERROR] Aborting
+
+190315  7:28:22 [Note] /usr/sbin/mysqld: Shutdown complete
+
+190315  7:52:00 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+190315  7:52:00 [Note] Plugin 'FEDERATED' is disabled.
+190315  7:52:00 InnoDB: The InnoDB memory heap is disabled
+190315  7:52:00 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+190315  7:52:00 InnoDB: Compressed tables use zlib 1.2.8
+190315  7:52:00 InnoDB: Using Linux native AIO
+190315  7:52:00 InnoDB: Initializing buffer pool, size = 128.0M
+190315  7:52:00 InnoDB: Completed initialization of buffer pool
+InnoDB: Error: space header page consists of zero bytes in data file ./ibdata1
+190315  7:52:00 InnoDB: Could not open or create data files.
+190315  7:52:00 InnoDB: If you tried to add new data files, and it failed here,
+190315  7:52:00 InnoDB: you should now edit innodb_data_file_path in my.cnf back
+190315  7:52:00 InnoDB: to what it was, and remove the new ibdata files InnoDB created
+190315  7:52:00 InnoDB: in this failed attempt. InnoDB only wrote those files full of
+190315  7:52:00 InnoDB: zeros, but did not yet use them in any way. But be careful: do not
+190315  7:52:00 InnoDB: remove old data files which contain your precious data!
+190315  7:52:00 [ERROR] Plugin 'InnoDB' init function returned error.
+190315  7:52:00 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+190315  7:52:00 [ERROR] Unknown/unsupported storage engine: InnoDB
+190315  7:52:00 [ERROR] Aborting
+
+190315  7:52:00 [Note] /usr/sbin/mysqld: Shutdown complete
+
+190315 10:59:50 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+190315 10:59:50 [Note] Plugin 'FEDERATED' is disabled.
+190315 10:59:50 InnoDB: The InnoDB memory heap is disabled
+190315 10:59:50 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+190315 10:59:50 InnoDB: Compressed tables use zlib 1.2.8
+190315 10:59:50 InnoDB: Using Linux native AIO
+190315 10:59:50 InnoDB: Initializing buffer pool, size = 128.0M
+190315 10:59:50 InnoDB: Completed initialization of buffer pool
+InnoDB: Error: space header page consists of zero bytes in data file ./ibdata1
+190315 10:59:50 InnoDB: Could not open or create data files.
+190315 10:59:50 InnoDB: If you tried to add new data files, and it failed here,
+190315 10:59:50 InnoDB: you should now edit innodb_data_file_path in my.cnf back
+190315 10:59:50 InnoDB: to what it was, and remove the new ibdata files InnoDB created
+190315 10:59:50 InnoDB: in this failed attempt. InnoDB only wrote those files full of
+190315 10:59:50 InnoDB: zeros, but did not yet use them in any way. But be careful: do not
+190315 10:59:50 InnoDB: remove old data files which contain your precious data!
+190315 10:59:50 [ERROR] Plugin 'InnoDB' init function returned error.
+190315 10:59:50 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+190315 10:59:50 [ERROR] Unknown/unsupported storage engine: InnoDB
+190315 10:59:50 [ERROR] Aborting
+
+190315 10:59:50 [Note] /usr/sbin/mysqld: Shutdown complete
+

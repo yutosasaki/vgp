@@ -36,3 +36,10 @@ services:
       - ./rancher/rancher-server/mysql-log:/var/log/mysql
       - ./rancher/rancher-server/cattle:/var/log/cattle
     env_file: .env
+  jenkins:
+    image: jenkins:latest
+    container_name: jenkins
+    ports:
+      - 18080:8080
+    volumes:
+      - ./jenkins_home:/var/jenkins_home
