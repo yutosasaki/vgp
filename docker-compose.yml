@@ -37,7 +37,7 @@ services:
       - ./rancher/rancher-server/cattle:/var/log/cattle
     env_file: .env
   jenkins:
-    image: jenkins:latest
+    image: jenkins/jenkins
     container_name: jenkins
     ports:
       - 18080:8080
